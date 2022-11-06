@@ -1,0 +1,16 @@
+﻿{
+  "strings": [
+    {
+      "Key": "DS_S_Title",
+      "Value": "Darkened Scales"
+    },
+    {
+      "Key": "DS_S_Alignment",
+      "Value": "Alignment changes"
+    },
+    {
+      "Key": "DS_S_Alignment_Desc",
+      "Value": "Player's alignment is changed to Chaotic Evil when siding with Lathimas and a mask is applied to maintain it to one step of CE + True Neutral."
+    }
+  ]
+}

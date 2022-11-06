@@ -1,0 +1,13 @@
+{
+  "Id": "DarkenedScales",
+  "DisplayName": "Darkened Scales",
+  "Author": "kreaddy",
+  "Version": "0.1.0",
+  "ManagerVersion": "0.23.0",
+  "GameVersion": "2.0.3",
+  "Requirements": [ "ModMenu-1.2.4" ],
+  "AssemblyName": "DarkenedScales.dll",
+  "LoadAfter": [],
+  "HomePage": "https://github.com/kreaddy/DarkenedScales/releases",
+  "EntryMethod": "DarkenedScales.Main.Load"
+}
